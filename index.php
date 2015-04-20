@@ -6,7 +6,9 @@
     </head>
     <body>
         <div class="dan">
+            <p>Dan what is up bruh how you been.</p>
             <div id="iwao">
+                <p>Dan's last name is Iwao and its pretty cool.</p>
         <?php
         
         ?>

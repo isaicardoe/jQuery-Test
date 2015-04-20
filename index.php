@@ -16,4 +16,5 @@
         </div>
     </body>
     <script type="text/javascript"></script>
+    <script type="text/javascript/main.js"></script>
 </html>
